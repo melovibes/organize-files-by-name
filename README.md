@@ -4,6 +4,7 @@ A dead-simple Windows batch script that moves every file in the current folder
 into its own subfolder named after the file (without extension).
 
 ### Before
+![Before - messy files in Downloads folder](example/before.png)
 photo.jpg
 
 document.pdf
@@ -13,6 +14,8 @@ cool-song.mp3
 organize.bat
 
 ### After
+![After - files moved into named subfolders](example/after.png)
+
 photo/
 photo.jpg
 
@@ -51,3 +54,4 @@ Done! 🎉
 
 
 Made with ❤️ for people drowning in messy Downloads folders
+
