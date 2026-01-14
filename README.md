@@ -5,25 +5,23 @@ into its own subfolder named after the file (without extension).
 
 ### Before
 ![Before - messy files in Downloads folder](example/before.png)
-photo.jpg
+
+cool-song.mp3
 
 document.pdf
 
-cool-song.mp3
+photo.jpg
 
 organize.bat
 
 ### After
 ![After - files moved into named subfolders](example/after.png)
 
-photo/
-photo.jpg
+cool-song/cool-song.mp3
 
-document/
-document.pdf
+document/document.pdf
 
-cool-song/
-cool-song.mp3
+photo/photo.jpg
 
 organize.bat           ← script stays in place
 
@@ -54,4 +52,5 @@ Done! 🎉
 
 
 Made with ❤️ for people drowning in messy Downloads folders
+
 
