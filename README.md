@@ -5,17 +5,23 @@ into its own subfolder named after the file (without extension).
 
 ### Before
 photo.jpg
+
 document.pdf
+
 cool-song.mp3
+
 organize.bat
 
 ### After
 photo/
 photo.jpg
+
 document/
 document.pdf
+
 cool-song/
 cool-song.mp3
+
 organize.bat           ← script stays in place
 
 
@@ -42,5 +48,6 @@ Done! 🎉
 ## License
 
 [MIT License](LICENSE) — feel free to use, modify, distribute however you want.
+
 
 Made with ❤️ for people drowning in messy Downloads folders
